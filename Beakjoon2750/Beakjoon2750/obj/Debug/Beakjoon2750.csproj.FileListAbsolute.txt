@@ -1,0 +1,7 @@
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\bin\Debug\Beakjoon2750.exe.config
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\bin\Debug\Beakjoon2750.exe
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\bin\Debug\Beakjoon2750.pdb
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\obj\Debug\Beakjoon2750.csprojAssemblyReference.cache
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\obj\Debug\Beakjoon2750.csproj.CoreCompileInputs.cache
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\obj\Debug\Beakjoon2750.exe
+E:\GitHubRepo\Baekjoon2750\Beakjoon2750\Beakjoon2750\obj\Debug\Beakjoon2750.pdb
